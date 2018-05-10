@@ -168,23 +168,43 @@ We did a good job on the project and achieved all our expectations. We finished 
 
 ## Sources
 [1] "Java (programming language)", En.wikipedia.org, 2018. [Online]. Available: https://en.wikipedia.org/wiki/Java_(programming_language).
+
 [2]  Akshayejh, “TVAC Studio,” YouTube. [Online]. Available: https://www.youtube.com/user/akshayejh/videos. [Accessed: 06-Apr-2018].
+
 [3] “ArthurHub/Android-Image-Cropper,” GitHub. [Online]. Available: https://github.com/ArthurHub/Android-Image-Cropper. [Accessed: 06-Apr-2018].
+
 [4] “bumptech/glide,” GitHub. [Online]. Available: https://github.com/bumptech/glide. [Accessed: 06-Apr-2018].
+
 [5] “hdodenhof/CircleImageView,” GitHub. [Online]. Available: https://github.com/hdodenhof/CircleImageView. [Accessed: 06-Apr-2018].
+
 [6] “Picasso,” Square. [Online]. Available: http://square.github.io/picasso/. [Accessed: 06-Apr-2018].
+
 [7] Bigkoo, “Bigkoo/Android-PickerView,” GitHub. [Online]. Available: https://github.com/Bigkoo/Android-PickerView. [Accessed: 06-Apr-2018].
+    
 [8] How can I switch between two fragments, w. (2018). How can I switch between two fragments, without recreating the fragments each time?. [online] Stackoverflow.com. Available at: https://stackoverflow.com/questions/22713128/how-can-i-switch-between-two-fragments-without-recreating-the-fragments-each-ti/22714222 [Accessed 6 Apr. 2018].
+
 [9] “Place Picker  |  Google Places API for Android  |  Google Developers,” Google. [Online]. Available: https://developers.google.com/places/android-api/placepicker.
+
 [10] The Google Android Place Picker Part 2 - The Java Coding. [Online]. Available: http://www.northborder-software.com/placepicker2.html.
+
 [11] E. Desjardins, CSCI 5708, Lab 6 Notes, Topic: “Currency Application”, Faculty of Computer Science, Dalhousie University, Halifax, Nova Scotia, Mar. 9, 2018.
+
 [12] georgiecasey, How to set custom header in Volley Request, Stack Overflow. Accessed on Mar. 18, 2018. [Online]. Available: https://stackoverflow.com/questions/17049473/how-to-set-custom-header-in-volley-request
+
 [13] “Modern Profile UI Design in Android Studio,” YouTube, 05-Oct-2017. [Online]. Available: https://www.youtube.com/watch?v=2pirZvqXza0&t=1153s.
+
 [14]"Android Chat Tutorial: Building a Messaging UI", Blog.sendbird.com, 2018. [Online]. Available: https://blog.sendbird.com/android-chat-tutorial-building-a-messaging-ui. [Accessed: 06- Apr- 2018].
+
 [15]"firebase/FirebaseUI-Android", GitHub, 2018. [Online]. Available: https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md. [Accessed: 07- Apr- 2018].
+
 [16]"Почему не конвертируются Fragment?", «Тостер» — вопросы и ответы, 2018. [Online]. Available: https://toster.ru/q/185673. [Accessed: 07- Apr- 2018].
+
 [17] Qaru and К. RecyclerView, "android - Как создать контекстное меню для RecyclerView - Qaru", Qaru.site, 2018. [Online]. Available: http://qaru.site/questions/97825/how-to-create-context-menu-for-recyclerview. [Accessed: 08- Apr- 2018].
+
 [18]"Android Developers", Developer.android.com, 2018. [Online]. Available: https://developer.android.com/index.html. [Accessed: 08- Apr- 2018].
+
 [19]"Create a List with RecyclerView | Android Developers", Developer.android.com, 2018. [Online]. Available: https://developer.android.com/guide/topics/ui/layout/recyclerview.html. [Accessed: 08- Apr- 2018].
+
 [20]"Create a navigation list | Android Developers", Developer.android.com, 2018. [Online]. Available: https://developer.android.com/guide/topics/ui/dialogs.html. [Accessed: 08- Apr- 2018].
+
 [21]"Dynamically add elements to a listView Android", Stackoverflow.com, 2018. [Online]. Available: https://stackoverflow.com/questions/4540754/dynamically-add-elements-to-a-listview-android. [Accessed: 08- Apr- 2018].
