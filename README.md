@@ -166,7 +166,7 @@ We did a good job on the project and achieved all our expectations. We finished 
 - Feature 2 Group Search (Completed)
 - Feature 3 Restaurant rating (not implemented)
 
-## Sources
+## References
 [1] "Java (programming language)", En.wikipedia.org, 2018. [Online]. Available: https://en.wikipedia.org/wiki/Java_(programming_language).
 
 [2]  Akshayejh, “TVAC Studio,” YouTube. [Online]. Available: https://www.youtube.com/user/akshayejh/videos. [Accessed: 06-Apr-2018].
